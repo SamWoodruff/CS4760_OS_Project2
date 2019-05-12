@@ -1,0 +1,11 @@
+Child Process with pid: 19581 Terminated in 0 Seconds, or 12520000 Nanoseconds.
+Child Process with pid: 19582 Terminated in 0 Seconds, or 12540000 Nanoseconds.
+Child Process with pid: 19583 Terminated in 0 Seconds, or 21500000 Nanoseconds.
+Child Process with pid: 19584 Terminated in 0 Seconds, or 21520000 Nanoseconds.
+Child Process with pid: 19585 Terminated in 0 Seconds, or 31940000 Nanoseconds.
+Child Process with pid: 19586 Terminated in 0 Seconds, or 31960000 Nanoseconds.
+Child Process with pid: 19587 Terminated in 0 Seconds, or 41340000 Nanoseconds.
+Child Process with pid: 19588 Terminated in 0 Seconds, or 41620000 Nanoseconds.
+Child Process with pid: 19589 Terminated in 0 Seconds, or 50480000 Nanoseconds.
+Child Process with pid: 19590 Terminated in 0 Seconds, or 53300000 Nanoseconds.
+Program ended with clock at 0 seconds or 53300000 nanoseconds.

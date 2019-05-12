@@ -1,0 +1,36 @@
+commit 2b09a319ec196126156cf52485eef0d46c0fd250
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Thu Feb 28 18:52:16 2019 -0600
+
+    commit #5 2/28/19
+    Finished user process file
+    Put time variables in struct
+    Implemented exit function to kill all children on ctrl+c and timer
+    Created outputs to stdout and and outputfile
+
+commit a1e4b6f571b36ad9dc47a8045ca853a8607797e8
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Tue Feb 26 19:44:05 2019 -0600
+
+    implemented forked process to execute within time paramaters
+
+commit ba65bdc5327677d3ae8e00c1ab1c056ac141a12d
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Feb 25 17:24:06 2019 -0600
+
+    Commit#3 2/25/19
+    Implemented increment of clock and reading from inputfile
+
+commit 38e63f92c025eb5689702277df5dc7a96eb2bd26
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Feb 25 11:03:22 2019 -0600
+
+    Commit#2 2/25/19
+    Implemented command line options with getopt
+
+commit a16d7f45c41abd917a30c636a1ca4b4189a08cdd
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Feb 25 10:15:15 2019 -0600
+
+    Commit#1 2/25/19
+    Setting up shared memory
